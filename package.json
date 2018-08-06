@@ -1,0 +1,22 @@
+{
+  "name": "news-paper",
+  "version": "0.0.0",
+  "description": "newsApplication, for odia viewers",
+  "main": "app.js",
+  "scripts": {
+    "test": "none"
+  },
+  "keywords": [
+    "news",
+    "react-native",
+    "odia"
+  ],
+  "author": "harkishen-singh",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "http": "0.0.0",
+    "mongodb": "^3.1.1"
+  }
+}
